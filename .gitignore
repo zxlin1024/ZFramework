@@ -2,3 +2,7 @@ ZFramework/Library
 ZFramework/Logs
 ZFramework/Packages
 ZFramework/Temp
+ZFramework/obj
+ZFramework/.vs
+ZFramework/ZFramework.sln
+ZFramework/Assembly-CSharp.csproj
